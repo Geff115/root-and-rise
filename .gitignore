@@ -14,3 +14,5 @@ __pycache__/
 data/processed/
 data/raw/
 data/sample/
+
+notebooks/.ipynb_checkpoints/
